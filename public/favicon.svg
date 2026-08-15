@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="7" fill="#131720" />
+  <!-- Three pins, each one slipping further right: drift. -->
+  <rect x="6" y="8" width="14" height="3.5" rx="1.75" fill="#e6eaf2" />
+  <rect x="9" y="14.25" width="14" height="3.5" rx="1.75" fill="#8a93a5" />
+  <rect x="12" y="20.5" width="14" height="3.5" rx="1.75" fill="#f0658d" />
+</svg>
