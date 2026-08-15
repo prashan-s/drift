@@ -11,6 +11,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
   <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=flat-square">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/prashan-s/drift?style=flat-square"></a>
 </p>
 
 <p align="center"><b><a href="https://prashan-s.github.io/drift/">Open the app →</a></b></p>
@@ -96,3 +97,7 @@ rewrites.
 ## Internals
 
 Design notes and the reasoning behind the graph model: [`src/graph/DESIGN.md`](src/graph/DESIGN.md).
+
+## License
+
+[MIT](LICENSE) © Prashan Samarathunge
